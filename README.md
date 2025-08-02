@@ -29,7 +29,7 @@ I’m interested in backend, frontend, web, and databases, always seeking effici
 <a href="https://www.linkedin.com/in/gabriel-deodato-43b05b26b/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/seuusuario" target="_blank" title="Instagram">
+<a href="https://instagram.com/gabriel_deodatoo" target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
