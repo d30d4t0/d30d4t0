@@ -23,7 +23,7 @@ I’m interested in backend, frontend, web, and databases, always seeking effici
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
 
 📫 Find me:  
-<a href="mailto:seuemail@gmail.com" title="Email">
+<a href="mailto:gabrieldeodato2017@gmail.com" title="Email">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/gabriel-deodato-43b05b26b/" target="_blank" title="LinkedIn">
