@@ -6,7 +6,7 @@ I’m interested in backend, frontend, web, and databases, always seeking effici
 
 ### 📊 GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=d30d4t0&show_icons=true&theme=tokyonight)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=d30d4t0&show_icons=true&theme=tokyonight)
 
 ### 🛠️ Technologies and Tools
 
